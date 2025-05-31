@@ -1,0 +1,17 @@
+name1=input("enter a boy name")
+name=input("enter a girl name")
+l1=list(name)
+l2=list(ame2)
+for i in range(len(l1)):
+    fi=or j in range(len(l2)):
+        if (l1[i])==(l2[j]):
+            l1[i]='2'
+            l2[j]='2'
+print(l1)
+print(l2)
+a=len(l1)-len.count(2)
+b=len(l2)-len.count(2)
+
+while (len(ans)!=1):
+    ans.pop(f)
+    print ans
