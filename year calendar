@@ -1,0 +1,3 @@
+import calendar
+yaer=2025
+print(calendar.calendar(year))
